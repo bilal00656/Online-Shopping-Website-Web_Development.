@@ -48,17 +48,17 @@ This project simulates a real-world online shopping system with user authenticat
 ---
 
 ## 🗂️ Project Structure
-ecommerce/
-│
-├── config/ # Database configuration
-├── includes/ # Header, footer, auth helpers
-├── auth/ # Login, Register, Logout
-├── admin/ # Admin dashboard & product management
-├── cart/ # Cart & checkout system
-├── images/ # Product images
-├── index.php # Homepage (Product listing)
-├── product.php # Product details page
-└── README.md
+- ecommerce/
+- │
+- ├── config/ # Database configuration
+- ├── includes/ # Header, footer, auth helpers
+- ├── auth/ # Login, Register, Logout
+- ├── admin/ # Admin dashboard & product management
+- ├── cart/ # Cart & checkout system
+- ├── images/ # Product images
+- ├── index.php # Homepage (Product listing)
+- ├── product.php # Product details page
+- └── README.md
 
 
 ---
