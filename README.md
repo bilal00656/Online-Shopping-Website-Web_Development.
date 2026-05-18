@@ -120,14 +120,6 @@ ecommerce/
 
 ---
 
-## 👨‍💻 Team Members
-
-- Member 1: Frontend UI Design (HTML, CSS, Bootstrap)
-- Member 2: JavaScript & jQuery (Cart & Validation)
-- Member 3: Backend Development (PHP, Authentication, Orders)
-- Member 4: Database Design & Integration (MySQL, Testing)
-
----
 
 ## 📈 Future Improvements
 - Payment gateway integration
@@ -138,10 +130,6 @@ ecommerce/
 
 ---
 
-## 📷 Screenshots
-(Add project screenshots here after UI completion)
-
----
 
 ## 🏁 Conclusion
 This project demonstrates a complete implementation of an e-commerce system with frontend, backend, and database integration. It is designed for academic submission as well as portfolio enhancement for web development roles.
